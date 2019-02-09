@@ -31,6 +31,7 @@ After you have installed all the packages you can add in your preferences -> set
 #### Settings User:
 
 ...
+
 {
     "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
     "font_face": "Consolas",
@@ -51,4 +52,5 @@ After you have installed all the packages you can add in your preferences -> set
     "theme": "Afterglow-blue.sublime-theme",
     "translate_tabs_to_spaces": true
 }
+
 ...
