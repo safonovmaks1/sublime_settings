@@ -30,27 +30,25 @@ After you have installed all the packages you can add in your preferences -> set
 
 #### Settings User:
 
-...
+    {
+        "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+        "font_face": "Consolas",
+        "font_size": 16,
+        "highlight_line": true,
+        "ignored_packages":
+        [
+            "Vintage"
+        ],
+        "line_padding_bottom": 2,
+        "line_padding_top": 2,
+        "margin": 2,
+        "save_on_focus_lost": true,
+        "show_definitions": false,
+        "status_bar_brighter": true,
+        "tab_size": 4,
+        "tabs_small": true,
+        "theme": "Afterglow-blue.sublime-theme",
+        "translate_tabs_to_spaces": true
+    }
 
-{
-    "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
-    "font_face": "Consolas",
-    "font_size": 16,
-    "highlight_line": true,
-    "ignored_packages":
-    [
-        "Vintage"
-    ],
-    "line_padding_bottom": 2,
-    "line_padding_top": 2,
-    "margin": 2,
-    "save_on_focus_lost": true,
-    "show_definitions": false,
-    "status_bar_brighter": true,
-    "tab_size": 4,
-    "tabs_small": true,
-    "theme": "Afterglow-blue.sublime-theme",
-    "translate_tabs_to_spaces": true
-}
 
-...
