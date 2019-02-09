@@ -10,21 +10,39 @@ When this is done it should be relatively simple to install the following packag
 
 #### Installed Packages:
 
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "AutoFileName",
-    "BracketHighlighter",
-    "CSS Format",
-    "Emmet",
-    "Gist",
-    "HTMLBeautify",
-    "Package Control",
-    "W3C Validators",
-    "JavaScript Completions",
-    "SFTP",
-    "Terminal",
-    "Java​Script & Node​JS Snippets",
-    "Git​Gutter"
+    {
+        "bootstrapped": true,
+        "in_process_packages":
+        [
+        ],
+        "installed_packages":
+        [
+            "AdvancedNewFile",
+            "All Autocomplete",
+            "AutoFileName",
+            "Bootstrap 4 Autocomplete",
+            "Bootstrap 4 Snippets",
+            "BracketHighlighter",
+            "Color Highlighter",
+            "CSS Format",
+            "Emmet",
+            "Gist",
+            "GitGutter",
+            "HTMLBeautify",
+            "JavaScript & NodeJS Snippets",
+            "JavaScript Completions",
+            "JavaScript Ultimate",
+            "MarkdownEditing",
+            "Package Control",
+            "PHPSnippets",
+            "Sass",
+            "SFTP",
+            "SideBarEnhancements",
+            "Terminal",
+            "Theme - Afterglow",
+            "W3CValidators"
+        ]
+    }
 
 ## Step 2 - Sublime settings
 
