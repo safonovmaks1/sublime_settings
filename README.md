@@ -23,6 +23,8 @@ When this is done it should be relatively simple to install the following packag
     "JavaScript Completions",
     "SFTP",
     "Terminal",
+    "Java​Script & Node​JS Snippets",
+    "Git​Gutter"
 
 ## Step 2 - Sublime settings
 
@@ -31,24 +33,37 @@ After you have installed all the packages you can add in your preferences -> set
 #### Settings User:
 
     {
+        "bold_folder_labels": true,
         "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
         "font_face": "Consolas",
+        "font_options":
+        [
+            "subpixel_antialias"
+        ],
         "font_size": 16,
         "highlight_line": true,
+        "highlight_modified_tabs": true,
         "ignored_packages":
         [
             "Vintage"
         ],
+        "indent_guide_options":
+        [
+            "draw_normal",
+            "draw_active"
+        ],
         "line_padding_bottom": 2,
         "line_padding_top": 2,
         "margin": 2,
+        "open_files_in_new_window": false,
         "save_on_focus_lost": true,
+        "scroll_past_end": true,
         "show_definitions": false,
+        "spellcheck": true,
         "status_bar_brighter": true,
         "tab_size": 4,
         "tabs_small": true,
         "theme": "Afterglow-blue.sublime-theme",
-        "translate_tabs_to_spaces": true
+        "translate_tabs_to_spaces": true,
+        "word wrap": true
     }
-
-
